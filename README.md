@@ -62,8 +62,7 @@ The model learns to map molecular features → drug potency (pIC50).
 
 ### Distribution of pIC50
 
-
-![pIC50 Distribution](<img width="640" height="480" alt="pic50_distribution" src="https://github.com/user-attachments/assets/4c8a56d9-02d6-4737-a7fe-e44798aa2520" />
+![pIC50 Distribution](<img width="640" height="480" alt="pic50_distribution" src="https://github.com/user-attachments/assets/5d7c068c-a67f-4dfc-b311-608cc0e97a76" />
 )
 
 This shows how drug potency is distributed across the dataset.
@@ -72,8 +71,7 @@ This shows how drug potency is distributed across the dataset.
 
 ### Model Performance
 
-
-![Model Performance](<img width="574" height="463" alt="actual_vs_predicted_plot" src="https://github.com/user-attachments/assets/e94ce103-d631-4ba4-b825-726e787464c4" />
+![Model Performance](<img width="574" height="463" alt="actual_vs_predicted_with_fingerprints" src="https://github.com/user-attachments/assets/6268b160-d337-41c5-9313-179669560061" />
 )
 
 The scatter plot compares predicted vs experimental pIC50 values.  
@@ -82,8 +80,7 @@ The scatter plot compares predicted vs experimental pIC50 values.
 
 ### Feature Importance
 
-
-![Feature Importance](<img width="676" height="440" alt="feature_importance" src="https://github.com/user-attachments/assets/8f85439d-0cda-4c3d-a7d0-f8e7dd2be8a4" />
+![Feature Importance](<img width="955" height="710" alt="feature_importance" src="https://github.com/user-attachments/assets/9abb5143-5b67-4d61-a78b-517e8d4330d3" />
 )
 
 This highlights which molecular properties contribute most to predictions.
